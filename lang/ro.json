@@ -1,1 +1,13 @@
-{}
+{
+    "BotTracker": {
+        "BotActive": "Activ",
+        "BotLastVisit": "Ultima vizita",
+        "BotName": "Nume",
+        "Config": "Configuraţia",
+        "Documentation": "Documentaţie",
+        "New": "Nou",
+        "false": "Nu",
+        "save_changes": "Salvare",
+        "true": "Da"
+    }
+}
