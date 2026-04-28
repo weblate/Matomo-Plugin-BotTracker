@@ -1,1 +1,10 @@
-{}
+{
+    "BotTracker": {
+        "BotActive": "Aktivt",
+        "BotName": "Namn",
+        "Config": "Konfigurasjon",
+        "false": "Nei",
+        "save_changes": "Lagre",
+        "true": "Ja"
+    }
+}
