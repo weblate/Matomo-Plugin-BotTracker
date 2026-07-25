@@ -1,6 +1,7 @@
 {
     "BotTracker": {
         "BotActive": "Aktīvs",
+        "BotKeyword": "Atslēgvārds (lietotāja aģents)",
         "BotName": "Vārds",
         "Config": "Konfigurācija",
         "Documentation": "Dokumentācija",
